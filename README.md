@@ -6,7 +6,8 @@ This repository contains a Power BI dashboard project that visualizes coffee qua
 
 The "Coffee Quality from CQI" dashboard provides insights into various aspects of coffee quality across different countries and years. It includes information on average defects, quality scores, processing methods, and more.
 
-![Dashboard Screenshot](path_to_screenshot.png)
+![coffee mp4 2024-05-11 03-18-10 294](https://github.com/AbdoMostafa2052000/Exploring-Coffee-Quality-through-Power-BI/assets/66859807/b29f8008-4938-4bc4-8659-fc41e950c306) 
+![![coffee mp4 2024-05-11 03-18-22 604](https://github.com/AbdoMostafa2052000/Exploring-Coffee-Quality-through-Power-BI/assets/66859807/c06e6793-1e77-4e8c-b2a4-23a286f23d8b)
 
 ## Features
 
@@ -20,7 +21,9 @@ The "Coffee Quality from CQI" dashboard provides insights into various aspects o
 
 ## Data Source
 
-The data for this dashboard is sourced from the Coffee Quality Institute (CQI), which provides comprehensive information on coffee quality evaluations.
+The data for this dashboard is sourced from the Coffee Quality Institute (CQI). The dataset is available on Kaggle:
+
+[Kaggle: Coffee Quality Database from CQI](https://www.kaggle.com/datasets/volpatto/coffee-quality-database-from-cqi?select=robusta_data_cleaned.csv)
 
 ## Setup and Installation
 
@@ -28,4 +31,9 @@ To view and interact with the dashboard, you need to have Power BI Desktop insta
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/coffee-quality-dashboard.git
+   git clone https://github.com/AbdoMostafa2052000/coffee-quality-dashboard.git
+
+
+
+
+
