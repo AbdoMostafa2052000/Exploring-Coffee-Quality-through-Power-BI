@@ -31,7 +31,7 @@ To view and interact with the dashboard, you need to have Power BI Desktop insta
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/[AbdoMostafa2052000/coffee-quality-dashboard](https://github.com/AbdoMostafa2052000/Exploring-Coffee-Quality-through-Power-BI).git
+   git clone https://github.com/AbdoMostafa2052000/Exploring-Coffee-Quality-through-Power-BI.git
 
 
 
